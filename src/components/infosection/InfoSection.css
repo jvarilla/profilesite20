@@ -1,0 +1,23 @@
+.InfoSection {
+    background-color: rgba(88, 111, 124, 0.616);
+    min-height: 30vh;
+    width: 80vw;
+    border: 2px solid #FDFFFF;
+    color: #FDFFFF;
+    /* color: #2E282A; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 1% 2%;
+    font-size: 0.8em;
+    text-align: left;
+
+}
+
+.InfoSection h2 {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.InfoSection:nth-child(1) {
+    margin-top: 10%;
+}
